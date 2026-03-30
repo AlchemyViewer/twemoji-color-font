@@ -20,18 +20,18 @@ table_name:
   family: Twitter Color Emoji
   # Subfamily is also called Style or Weight. Often set to: Regular
   subfamily: Regular
-  unique_id: Twitter Color Emoji SVGinOT 13rac1.com
+  unique_id: Twitter Color Emoji SVGinOT Alchemy
   full_name: Twitter Color Emoji SVGinOT
   #version:
   # Use the same postscript name as the Apple Color Emoji font to overide it.
   postscript_name: AppleColorEmoji
   #trademark:
-  manufacturer: 13rac1
+  manufacturer: Alchemy Development Group
   designer: Twitter, Inc.
   description: >
     A SVGinOT color emoji font using the Twitter Emoji for Everyone set:
-    https://github.com/13rac1/twemoji-color-font
-  url_vendor: https://github.com/13rac1/twemoji-color-font
-  url_designer: https://github.com/twitter/twemoji
+    https://github.com/AlchemyViewer/twemoji-color-font
+  url_vendor: https://github.com/AlchemyViewer/twemoji-color-font
+  url_designer: https://github.com/jdecked/twemoji
   license: Creative Commons Attribution 4.0 International
   url_license: http://creativecommons.org/licenses/by/4.0/
